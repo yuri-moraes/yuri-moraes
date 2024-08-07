@@ -29,9 +29,9 @@ In the front-end
 In the back-end:
 
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=3776AB&logo=python&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-232323?style=flat&labelColor=007396&logo=java&logoColor=ffffff)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-232323?style=flat&labelColor=6DB33F&logo=springboot&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=3776AB&logo=python&logoColor=5A75A0)
+![Java](https://img.shields.io/badge/-Java-232323?style=flat&labelColor=007396&logo=java&logoColor=25BE56)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-232323?style=flat&labelColor=6DB33F&logo=springboot&logoColor=CBCBCB)
 <!-- 
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=339933&logo=nodedotjs&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
@@ -42,7 +42,7 @@ In the back-end:
 And in general:
 ![Linux](https://img.shields.io/badge/-Linux-232323?style=flat-square&labelColor=FCC624&logo=linux&logoColor=000000)
 ![Git](https://img.shields.io/badge/-Git-232323?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/-Figma-232323?style=flat-square&labelColor=F24E1E&logo=figma&logoColor=ffffff)
-![Canva](https://img.shields.io/badge/-Canva-ff75f7?style=flat-square&labelColor=ff75f7&logo=canva&logoColor=000000)
+![Figma](https://img.shields.io/badge/-Figma-232323?style=flat-square&labelColor=F24E1E&logo=figma&logoColor=BB3E6D)
+![Canva](https://img.shields.io/badge/-Canva-ff75f7?style=flat-square&labelColor=ff75f7&logo=canva&logoColor=34CADA)
 
 <hr>
