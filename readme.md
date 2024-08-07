@@ -1,6 +1,6 @@
 ## Hello, there ✌
 
-My name is Yuri and I am a front-end web developer from Belo Horizonte, Minas Gerais. I like programming and my goal is to create awesome websites and applications that solve real-world problems while looking beautiful on every device (and to learn with professionals to improve my skills). I'm currently working at PCX Tecnologia as a software developer.
+My name is Yuri and I am a front-end web developer from Belo Horizonte, Minas Gerais. I like programming and my goal is to create awesome websites and applications that solve real-world problems while looking beautiful on every device. I'm currently working at PCX Tecnologia as a software developer.
 
 I'm currently open for new projects so you can reach me through [WhatsApp](https://wa.me/5531983901251), [Telegram](https://t.me/moraesyuri), or [email](mailto:contato@isaacpontes.dev.br).
 
