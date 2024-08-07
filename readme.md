@@ -29,7 +29,7 @@ In the front-end
 In the back-end:
 
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=3776AB&logo=python&logoColor=5A75A0)
+![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=3776AB&logo=python&logoColor=A2BB3E)
 ![Java](https://img.shields.io/badge/-Java-232323?style=flat&labelColor=007396&logo=java&logoColor=25BE56)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-232323?style=flat&labelColor=6DB33F&logo=springboot&logoColor=CBCBCB)
 <!-- 
