@@ -42,7 +42,7 @@ In the back-end:
 And in general:
 ![Linux](https://img.shields.io/badge/-Linux-232323?style=flat-square&labelColor=FCC624&logo=linux&logoColor=000000)
 ![Git](https://img.shields.io/badge/-Git-232323?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/-Figma-232323?style=flat-square&labelColor=F24E1E&logo=figma&logoColor=BB3E6D)
+![Figma](https://img.shields.io/badge/-Figma-232323?style=flat-square&labelColor=#FCFEFC&logo=figma&logoColor=BB3E6D)
 ![Canva](https://img.shields.io/badge/-Canva-ff75f7?style=flat-square&labelColor=ff75f7&logo=canva&logoColor=34CADA)
 
 <hr>
