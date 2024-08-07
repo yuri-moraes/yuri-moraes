@@ -48,7 +48,7 @@ In the back-end:
 And in general:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&labelColor=FCC624&logo=linux&logoColor=000000)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/-Figma-F05032?style=flat-square&labelColor=F05032&logo=figma&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-F05032?style=flat-square&labelColor=F05032&logo=figma&logoColor=0D1117)
 
 <hr>
 
