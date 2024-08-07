@@ -1,5 +1,3 @@
-Claro, aqui está o link com o fundo que destaca a cor dos ícones:
-
 ## Hello, there ✌
 
 My name is Yuri and I am a front-end web developer from Belo Horizonte, Minas Gerais. I like programming and my goal is to create awesome websites and applications that solve real-world problems while looking beautiful on every device (and to learn with professionals to improve my skills). I'm currently working at PCX Tecnologia as a software developer.
@@ -33,7 +31,6 @@ In the back-end:
 ![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=3776AB&logo=python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-232323?style=flat&labelColor=007396&logo=java&logoColor=ffffff)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-232323?style=flat&labelColor=6DB33F&logo=springboot&logoColor=ffffff)
-
 
 And in general:
 
