@@ -21,8 +21,7 @@ In the front-end:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=3178C6&logo=typescript&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-232323?style=flat&labelColor=646CFF&logo=vite&logoColor=ffe330)
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
-
-<!-- ![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff) -->
+![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
 <!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-232323?style=flat&labelColor=4FC08D&logo=vue.js&logoColor=ffffff) -->
 
 In the back-end:
