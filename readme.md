@@ -5,7 +5,7 @@ My name is Yuri and I am a front-end web developer from Belo Horizonte, Minas Ge
 I'm currently open for new projects so you can reach me through [WhatsApp](https://wa.me/5531983901251), [Telegram](https://t.me/moraesyuri), or [email](mailto:contato@isaacpontes.dev.br).
 
 <a href="#">
-<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hey, there!">
+<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif" title="hello" width="335" height="243" align="right" alt="Hey, there!">
 </a>
 
 ### Here's some of the stuff I like to use
@@ -29,7 +29,7 @@ In the back-end:
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=3776AB&logo=python&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-232323?style=flat&labelColor=339933&logo=node.js&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-232323?style=flat&labelColor=007396&logo=java&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-232323?style=flat&labelColor=ED8B00&logo=java&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 
 And in general:
