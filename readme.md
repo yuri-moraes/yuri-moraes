@@ -28,9 +28,10 @@ In the back-end:
 
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=3776AB&logo=python&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/-Node.js-232323?style=flat&labelColor=339933&logo=node.js&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-232323?style=flat&labelColor=ED8B00&logo=java&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
+![Django](https://img.shields.io/badge/-Django-232323?style=flat&labelColor=092E20&logo=django&logoColor=ffffff)
+<!--![Node.js](https://img.shields.io/badge/-Node.js-232323?style=flat&labelColor=339933&logo=node.js&logoColor=ffffff) -->
 
 And in general:
 
