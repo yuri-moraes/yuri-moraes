@@ -2,7 +2,7 @@
 
 My name is Yuri and I am a front-end web developer from Belo Horizonte, Minas Gerais. I like programming and my goal is to create awesome websites and applications that solve real-world problems while looking beautiful on every device. I'm currently working at PCX Tecnologia as a software developer.
 
-I'm currently open for new projects so you can reach me through [WhatsApp](https://wa.me/5531983901251), [Telegram](https://t.me/moraesyuri), or [email](mailto:contato@yuri.nogueira.de.moraes@hotmail.com).
+I'm currently open for new projects so you can reach me through [WhatsApp](https://wa.me/5531983901251), [Telegram](https://t.me/moraesyuri), or [email](mailto:yuri.nogueira.de.moraes@hotmail.com).
 
 <a href="#">
 <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif" title="hello" width="335" height="243" align="right" alt="Hey, there!">
